@@ -29,7 +29,8 @@ function Card(props) {
             padding : "8px 8px",
             fontSize : "larger",
             color : 'black',
-            background: "white" 
+            background: "white", 
+            height:"25px"
           }}
           value={input}
           onChange={(e)=>{
